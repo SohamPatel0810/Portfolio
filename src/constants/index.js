@@ -17,6 +17,7 @@ import {
     figma,
     docker,
     openxcell,
+    clevertech_logo,
     fai,
     sensor,
     chatmate,
@@ -119,6 +120,7 @@ import {
     {
       title: "Software Developer",
       company_name: "Lumenalta (formerly Clevertech)",
+      icon: clevertech_logo,
       iconBg: "#383E56",
       date: "September 2024 - Present",
       points: [
