@@ -117,10 +117,22 @@ import {
   
   const experiences = [
     {
+      title: "Software Developer",
+      company_name: "Lumenalta (formerly Clevertech)",
+      iconBg: "#383E56",
+      date: "September 2024 - Present",
+      points: [
+        "Designed and implemented features to handle queries related to company policies while streamlining routine check-ins for tracking employee moods and task progress.",
+        " Built functionalities to assist the sales team by providing instant support, promoting products, and improving internal communications. Developed tools for document uploads and tailored responses to enhance team efficiency.",
+        " Integrated the chatbot with Slack to facilitate real-time engagement, ensuring faster interactions and improved team collaboration.",
+        "Devised multi-response generation strategies to produce accurate, user-specific answers, enhancing the chatbot's conversational quality.",
+      ],
+    },
+    {
       title: "Freelancer",
       company_name: "Self Employed",
       iconBg: "#383E56",
-      date: "February 2024 - Present",
+      date: "February 2024 - August 2024",
       points: [
         "Integrated Square Payment gateway for a lottery based web application.",
         "Providing technical support for multiple small websites. ",
