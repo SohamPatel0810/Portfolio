@@ -24,6 +24,7 @@ import python from "./tech/python.svg";
 
 import fai from "./company/fai.jpeg";
 import openxcell from "./company/openxcell.jpeg";
+import clevertech_logo from "./company/clevertech_logo.jpg";
 
 import sensor from "./sensor.png";
 import alba from "./alba.png";
@@ -56,6 +57,7 @@ export {
   reactjs,
   tailwind,
   fai,
+  clevertech_logo,
   openxcell,
   sensor,
   chatmate,
